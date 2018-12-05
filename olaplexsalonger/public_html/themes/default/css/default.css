@@ -1,0 +1,60 @@
+.panel-no-padding{
+    padding-top:0px;
+    padding-bottom:0px;
+}
+.highlight{
+    background-color:#F5F5F5;
+}
+.loc-panel .list-group-item{
+    border-radius: 0;
+    border-left:0px;
+    border-right:0px;
+}
+
+
+.cluster {
+    background-clip: padding-box;
+    border-radius: 20px;
+}
+.cluster div {
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 12px;
+}
+.cluster span {
+    line-height: 30px;
+}
+
+.cluster-small {
+    background-color: rgba(181, 226, 140, 0.6);
+}
+.cluster-small div {
+    background-color: rgba(110, 204, 57, 0.6);
+}
+
+.cluster-medium {
+    background-color: rgba(241, 211, 87, 0.6);
+}
+.cluster-medium div {
+    background-color: rgba(240, 194, 12, 0.6);
+}
+
+.cluster-large {
+    background-color: rgba(253, 156, 115, 0.6);
+}
+.cluster-large div {
+    background-color: rgba(241, 128, 23, 0.6);
+}
+
+.loc-result-set .list-group-item:hover{
+    background-color: #F5F5F5;
+}
+
+/*Customized container of the iframe*/
+.container{
+    width: 100%;
+}

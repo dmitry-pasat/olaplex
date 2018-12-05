@@ -1,0 +1,2 @@
+name,email,phone,fax,address,locality,administrative_area_level_2,administrative_area_level_1,postal_code,country,latitude,longitude,hours,description,website,image,twitter,youtube,googleplus,linkedin,pinterest,instagram
+TEST Starbucks ANC Anchorage S Dom Term Conc C,example@example.com,(123) 456-7894,(123) 456-1234,5000 W IntlAirport Rd,,Anchorage,AK ,99502,US,61.176563,-149.97307,,,example.com,http://example.com/image.jpg,http://twitter.com,http://youtube.com,http://googleplus.com,http://linkedin.com,http://pinterest.com,http://instagram.com
